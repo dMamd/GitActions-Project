@@ -8,4 +8,5 @@ while true; do
 done
 EOF
 
+
 ENTRYPOINT /app/run.sh
